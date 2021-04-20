@@ -1,3 +1,6 @@
+# Example
+https://dbogatko.github.io/d3-stacked-status-timeline/
+
 # Description
 
 Project implements logic based on d3 library to build stacked status timelins as follow:
